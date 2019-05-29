@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Projects\\Mobile\\gpa-calculator-app\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Projects\\Mobile\\gpa-calculator-app\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "175,55,116",
+                        "endColumns": "63,60,58",
+                        "endOffsets": "234,111,170"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,119,180",
+                        "endColumns": "63,60,58",
+                        "endOffsets": "114,175,234"
+                    }
+                }
+            ]
+        }
+    ]
+}
